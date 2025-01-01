@@ -12,6 +12,7 @@ public class SpringBootTestingApplication {
 		System.out.println("Hi");
 		Alien obj = context.getBean(Alien.class);
 		obj.code();
+		System.out.println("Age="+obj.getAge());
 
 
 	}
