@@ -1,4 +1,4 @@
-package com.learning.SpringBootTesting;
+package com.learning.SpringBootTesting.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

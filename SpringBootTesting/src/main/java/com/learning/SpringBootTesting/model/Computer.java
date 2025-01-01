@@ -1,4 +1,4 @@
-package com.learning.SpringBootTesting;
+package com.learning.SpringBootTesting.model;
 
 public interface Computer {
     void compile();

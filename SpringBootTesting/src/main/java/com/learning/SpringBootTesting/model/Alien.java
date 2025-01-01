@@ -1,4 +1,4 @@
-package com.learning.SpringBootTesting;
+package com.learning.SpringBootTesting.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
